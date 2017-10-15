@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1047033656160",
+    "firebase_url": "https://ecommerce2-10e6b.firebaseio.com",
+    "project_id": "ecommerce2-10e6b",
+    "storage_bucket": "ecommerce2-10e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047033656160:android:3d5e7f74ebc99b5d",
+        "android_client_info": {
+          "package_name": "com.example.rohan.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047033656160-6t74d9eck04vma6kfjb17c620ecsjbvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZDXEg_m5NJ6Q5HLVkhPie6u-o0wqODY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
